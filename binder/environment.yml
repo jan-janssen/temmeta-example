@@ -1,5 +1,5 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron_base >=0.1.10  # simulation framework 
-- temmeta               # TEM image post processing 
+- pyiron_base  # simulation framework 
+- temmeta      # TEM image post processing 
