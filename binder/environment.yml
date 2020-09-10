@@ -3,3 +3,4 @@ channels:
 dependencies:
 - pyiron_base  # simulation framework 
 - temmeta      # TEM image post processing 
+- hyperspy=1.5.2
