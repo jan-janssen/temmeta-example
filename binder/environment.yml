@@ -1,6 +1,6 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron_base  # simulation framework 
-- temmeta      # TEM image post processing 
+- pyiron_base     # simulation framework 
+- temmeta=0.0.6   # TEM image post processing 
 - hyperspy=1.5.2
